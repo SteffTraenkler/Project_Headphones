@@ -165,6 +165,7 @@ aside nav section article a:hover{
     grid-template-rows: 22% 40% 38%;
 }
 section img{
+    height: 100%;
     width: 100%;
 }
 .asOne{
@@ -231,7 +232,12 @@ section img{
     height: 50%;
     text-align: center;
     margin-left: 45%;
-    margin-top: -35%;
+    margin-top: -37%;
+}
+.headphonesA div{
+    height: 100%;
+    width: 95%;
+    margin-left: 5%;
 }
 .headphonesA h2{
     margin-top: 10%;
